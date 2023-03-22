@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiekstras&label=Profile%20views&color=1483c8&style=flat" alt="wiekstras" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wiekstras" alt="wiekstras" /></a> </p>
+
 
 - 🔭 I’m currently working on [InstantWebdesign](https://instantwebdesign.nl)
 
