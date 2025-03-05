@@ -5,7 +5,6 @@
 
 
 
-- 🔭 I’m currently working on [InstantWebdesign](https://instantwebdesign.nl)
 
 - 👨‍💻 My portfolio is available at [https://wiekstras.com](https://wiekstras.com)
 
