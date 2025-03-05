@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stan Wiekstra</h1>
-<h3 align="center">A passionate developer from the Netherlands</h3>
+<h3 align="center">A developer from the Netherlands</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wiekstras&label=Profile%20views&color=1483c8&style=flat" alt="wiekstras" /> </p>
 
